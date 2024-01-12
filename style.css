@@ -1,0 +1,150 @@
+
+h1,h2,h3,h4,h5,h6,p{
+    margin:0;
+    padding:0;
+}
+body{}
+
+.header{
+text-align: center;
+}
+.header h1{
+
+font-size:70px;
+
+
+}
+.header p{
+    margin-left: 290px;
+    font-size: 18px;
+    margin-top: -5px;
+    font-weight: 700;
+}
+
+
+.menubar{
+
+}
+.menubar nav{}
+
+.menubar nav ul{
+    background: black;
+    padding: 10px;
+} 
+.menubar nav ul li{ 
+
+    display: inline;
+ 
+}
+.menubar nav ul li a{
+  
+    color:#fff;
+    text-decoration: none;
+    padding:10px;
+}
+.menubar nav ul li a:hover{
+    background: red;
+}
+.sorejaw{
+
+    margin-left:450px;
+}
+.banner,.client{
+
+    text-align: center;
+    background: orange;
+    padding: 70px;
+}
+.banner h1,.client h1{
+    font-size: 100px;
+
+}
+ 
+.product{
+
+    width:100%;
+    display: inline-flex;
+    margin-top: 10px;
+}
+.left{ 
+    width:50%;
+   
+}
+.left img{
+    width: 100%;
+   
+}
+.right{
+    width:50%;
+    
+    text-align: center;
+   
+}
+.right h1{
+    color: #000
+}
+.right p{
+
+    font-size: 20px;
+    text-align: justify;
+    padding: 10px;
+    color: #000;
+}
+.service,.team{
+
+  display: inline-flex;
+}
+.one {
+    background: orange;
+    width: 318px;
+    text-align: center;
+
+    margin-left: 15px;
+
+}
+.one img{
+
+    width: 100%;
+}
+.one h1{
+
+    text-transform: uppercase;
+}
+.one p{
+    text-align: justify;
+    padding: 10px;
+}
+.one button{
+    background: black;
+    color: #fff;
+    padding: 10px;
+    width: 100%;
+}
+.client{
+background: fuchsia;
+
+margin-left: 15px;
+}
+.team{}
+.two{}
+.two img{}
+.two h1{}
+.two p{}
+.two button{}
+.footer{
+    background: #000;
+    color: #fff;
+    margin-top:10px;
+    padding:10px;
+    text-align:center;
+}
+.fotter p{
+    text-decoration: none;
+}
+.fotter p a{}
+
+
+
+
+
+
